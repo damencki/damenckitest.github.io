@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8477FN8QYG.com.rethink.care",
+                "paths": [
+                  "/",
+                  "/redirect",
+                  "/account",
+                  "/privacy",
+                  "/terms"
+                ]
+            }
+        ]
+    }
+}
